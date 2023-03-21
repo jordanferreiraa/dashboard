@@ -228,7 +228,7 @@ svg circle:nth-child(2) {
 .bar-wrapper {
   display: grid;
   grid-template-rows: 15.9rem 1.6rem;
-  justify-content: center;
+  justify-items: center;
   gap: 0.5rem;
   z-index: 1;
 }
